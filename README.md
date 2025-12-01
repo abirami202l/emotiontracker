@@ -70,5 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# speaker-analyzer
->>>>>>> 91a0a87dcc6583bef0ec1ada79365dfa26a2a410
